@@ -24,8 +24,8 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-**Name :** K.R.HASHISH VIDYA SAGAR
-**Register Number :** 212222230047
+##**Name :** K.R.HASHISH VIDYA SAGAR
+##**Register Number :** 212222230047
 
 ```python
 import torch as t
